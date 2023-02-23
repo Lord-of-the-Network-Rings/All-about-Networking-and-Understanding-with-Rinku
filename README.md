@@ -13,7 +13,7 @@ Official title :
 My Article Title Number 10. 
 --------------------------------------------------
 
-Article written By :	$ Mohammad mahedi hasan Rinku . Kushtian, Bangladesh .$
+Article written By :	$Mohammad mahedi hasan Rinku . Kushtian, Bangladesh$
 Other Fun Titles : 
 	$ Title : Knowing Your Handset Network While Speed Testing using a External App $
 	Title : Hacking must be easy ; the Mature Networking Vortex
@@ -65,10 +65,10 @@ I am making things long and boring for understand in Future,  about - Network an
 	$ "what is Network  &&  Network Between sim IC to handset IC; Checking connectivity . "$
 Now,  lets try Focus on my android app;  im trying to Monitoring commands and Traffic packages.
 First the App checked capacity of my Sim card data capture speed and my main_board data capture speed along with data capacity limit (the electricity) . 
-	$ {Android Sub System Linux [Emulated (Electricity Supply)]}.  $
-~~~~~~~~~~~~~~RAFI~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~😁😄😀~~~~~~~~~~~~~~
-Bro, Networking is crazy ! Im announcing and dedicating my Articles to my Beloved EX as proof of my Data Security. 
+	$ {Android Sub System Linux [Emulated (Electricity Supply)]}$
+~~~~~~~Rafat~~~~~~~😁😄😀😮‍💨~~~~~~~Sultana~~~~~~~Rafi~~~~~~
+Bro, Networking is crazy !
+Im announcing and dedicating my Articles to my Beloved EX as proof of my Data Security patent - diposited/hosted on Github.com . 
 Some how on some place womans are right. Its a Miracle bro. I still dont know how a human brain can grow so matured on Subconscious Mode.
 I Think im talking stupid now 😄 . 
 
