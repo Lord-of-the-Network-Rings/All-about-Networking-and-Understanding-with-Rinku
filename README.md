@@ -12,15 +12,15 @@ Official title : Treasures of networking Universe.
 My Article Title Number 10. 
 --------------------------------------------------
     $ Article By : Mohammad mahedi hasan Rinku. 
-Kushtian, Bangladesh.$
+Kushtian, Bangladesh. $
 
-    $ Other Title $
+    $ Other Title fun $
 
 Title : Knowing Your Handset Network While Speed Testing using a External App.
 Title : Hacking must be easy ; the Mature Vortex.
 Title : Networking is the Secrete of the Universe.
 
-    $Pardon My Humor...$
+    $ Pardon My Humour... . $
 
 
 I was trying to fix a Custom Android App to modify internet Usages. 
@@ -31,25 +31,39 @@ Android system actually Runs some special Rules to Emulate, yes i repeat Emulate
 So our Android Framework actually adopts some kind of way to run/emulate all kind of language with proper element (java, php, html, html5, angular js, any bootstrups u wanna use.  
 
 Let go to main thing im excited to write it down :---
+I Used
+	$ A external Application downloaded from Google Play Store $
 
-	$ I used a external Application downloaded from Google Play Store $
- It was for testing general internet speed between my	$ SIM Cafd TO HANSET NETWORK IC  (Sim card IC to my mainboard IC) $ 
+The Play store Free APP was for testing general internet speed between my
+All the network Capacity from netwok broad to sim to handset_mainboard. 
+
+	$ {[( (Network Broadcasting Tower to SIM Card IC).  < [sim card TO HANSET NETWORK IC] then < {Network IC to < my mainboard processor IC}  )]} . $ 
+So using the app i seen from 'request' - the app made a command from direct operating system shell to print out put or show user a Result. 
+	$ To print output / display something to me on screen. (Affer calculating a command then process it throw Processor by bits . $
+
+The App checked Something Interesting before output;  which is "data speed of sim operator to broadcasted Tower frequency about data outgoing/receiving capacity directly from Tower to my sim card IC and show us interpreted . 
+Then it checks my Sim IC to my main board IC's  network connectivity and power capacity. 
+
+'Handset' is mainly a combination verius module in Single 'mother_board'
+	$ mother_board / main board is ' = ' && sister_board ' = '  &  ' ≠ ' of a Mother_board or Single_board ,  module_board combination in single board ' = ' mother_board . $ 
+
+So, the combination of  Multiple Sister_board =/< in a Single Main_board. 
+
+Why a Mother_board can be combination of verious boards in a single Space / Board?
+With the help of intigrated IC and logic-Gates with mathematical Calculation of electricity supply inside the main board and it's Connectivity ; we can get exact output we Desire to see 🤩. 
+But Adventure really doesn't ENDS here....
 
 
-So using the app i seen from 'request' - the app made a command from direct operating system shell 
-	$To print output / display something to me on screen. $
+Other example about main_board : 
 
-Firat it checked before output which is " data speed of sim operator to broadcasted Tower frequency data receive capacity Tower to my sim card IC. 
-Then it checks my Sim IC to my main board IC's  network connectivity and power capacity.  
-handsent mainly we call it the     $'mother_board /main board'.$
-Of combination of    Multiple Sister_board =/< in a Single Main_board
-
-Motherboard can be a combination of verious boards in a single Space / Board . with intigrated IC and logic-Gates with mathematical Calculation of electricity supply inside the main board and it's Connectivity.  
-I mean Mother_Board is a place of multiple complete module's place of paradise in short space. Actually the purpose of my Article is to make thing go on.. Or help our Upcoming generating evolve more advance than we are now.
+Mother_Board is a place of multiple complete module's place of paradise in short space. Actually the purpose of my Article is to make thing go on.. Or help our Upcoming generating evolve more advance than we are now.
 As we understand    $'main board' and 'mother board'$
 	$ All boards are = or ≠ same thing but could be some combination of multiple board in one single place(space). $
 
-I am making thing long and boring for understand in Future,  about -
+
+😵‍💫😵‍💫😵‍💫  -  😵😵😵  :::: i think my Elastic_heart article is longer than any other Usual Articles. 
+
+I am making things long and boring for understand in Future,  about - Network and relation Between hardwire and framewire. 
 	$ "what is 'Network' Between sim IC to handset IC "connectivity". $
 
 Now,  lets try Focus on my android app;  im trying to Monitoring command and Traffic packages. . 
