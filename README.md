@@ -1,5 +1,5 @@
 # All-about-Networking-and-Understanding-with-Rinku
-Networking and understanding Network relation Between modules, rearrange, decodation, Intercept between device and Communication signals. Article for networking Sectors . finding Gaps\Loop_holes .
+Networking and understanding Network relation Between modules, rearrange, decodation, Intercept between device and Communication signals. Article about all networking Sectors . finding Gaps\Loop_holes, Hacking, playing with Network, Intercept in Networking Universe. 
 
 Well, 
 
@@ -9,10 +9,10 @@ University like Harvard! 😅
 
 
 Official title ::
-	$ Treasures of networking Universe . $
+	$ Treasures of networking Multiverse . $
 My Article Title Number 10. 
 --------------------------------------------------
-    Article By :
+Article written By ::
 	$ Mohammad mahedi hasan Rinku . Kushtian, Bangladesh . $
 
 
@@ -21,8 +21,9 @@ Other Title fun ::
 	$ Title : Hacking must be easy ; the Mature Networking Vortex $
 	$ Title : Networking is the Secrete of the Universe $
 
-Pardon my silliness. 
-    $ Pardon My Humour... . $
+
+Pardon my silliness .
+	$ Pardon My Humour... .  $
 
 
 I was trying to fix a Custom Android App to modify internet Usages. 
@@ -33,46 +34,61 @@ Android system actually Runs some special Rules to Emulate, yes i repeat Emulate
 So our Android Framework actually adopts some kind of way to run/emulate all kind of language with proper element (java, php, html, html5, angular js, any bootstrups u wanna use.  
 
 Let go to main thing im excited to write it down :---
-I Used
+I Used :
 	$ A external Application downloaded from Google Play Store $
 
+
 The Play store Free APP was for testing general internet speed between my
-All the network Capacity from netwok broad to sim to handset_mainboard. 
+All the network Capacity from netwok broad to sim to handset_mainboard .
 
-	$ {[( (Network Broadcasting Tower to SIM Card IC).  < [sim card TO HANSET NETWORK IC] then < {Network IC to < my mainboard processor IC}  )]} . $ 
-So using the app i seen from 'request' - the app made a command from direct operating system shell to print out put or show user a Result. 
-	$ To print output / display something to me on screen. (Affer calculating a command then process it throw Processor by bits . $
+	$ {[( (Network Broadcasting Tower to SIM Card IC).  < [sim card TO HANSET NETWORK IC] then < {Network IC to < my mainboard processor IC}  )]} . $
 
-The App checked Something Interesting before output;  which is "data speed of sim operator to broadcasted Tower frequency about data outgoing/receiving capacity directly from Tower to my sim card IC and show us interpreted . 
-Then it checks my Sim IC to my main board IC's  network connectivity and power capacity. 
 
-'Handset' is mainly a combination verius module in Single 'mother_board'
-	$ mother_board / main board is ' = ' && sister_board ' = '  &  ' ≠ ' of a Mother_board or Single_board ,  module_board combination in single board ' = ' mother_board . $ 
+So using the app i seen from 'request' - the app made a command from direct operating system shell to print out put or show user a Result .
 
-So, the combination of  Multiple Sister_board =/< in a Single Main_board. 
+	$ To print output / display something to me on screen. (Affer calculating a command then process it throw Processor by bits or Binary . $
+
+
+The App checked Something Interesting before output;  which is "data speed of sim operator to broadcasted Tower networking DB,RSS, Feeds, frequency and all outgoing/receiving capacity directly from Tower to my sim card IC and show us output print_result on display module by interpreted as Human language for Understanding.  
+Then it checks my Sim IC to my main board IC's  network connectivity and power capacity. Isn't the App dev brilliant ? 
+
+
+'Handset' is mainly a combination verius module in Single 'mother_board' / 'main board' / 'sjngle_main_board' .
+
+	$ mother_board / main board is ' = ' && sister_board ' = '  &  ' ≠ '  and 'single_Mother_board' or Single_board is same output Logic || 'module_board' combination in single board ' = ' mother/main_board . $ 
+
+
+So, the combination of  Multiple Sister_board =/< or =/> in a Single Main_board. 
 
 Why a Mother_board can be combination of verious boards in a single Space / Board?
-With the help of intigrated IC and logic-Gates with mathematical Calculation of electricity supply inside the main board and it's Connectivity ; we can get exact output we Desire to see 🤩. 
-But Adventure really doesn't ENDS here....
+With the help of integrated IC and logic-Gates with Mathematically Calculation of electricity supply, inside the main board and wire's are basically "Network Connectivity link/wires/cables  ; 
+Theoritically, we can get any exact output we Desire to see 🤩. (Depending on module capasity)
+
+But Adventure of Networking really doesn't ENDS here....
 
 
-Other example about main_board : 
+
+Other example about main_board ::
 
 Mother_Board is a place of multiple complete module's place of paradise in short space. Actually the purpose of my Article is to make thing go on.. Or help our Upcoming generating evolve more advance than we are now.
-As we understand    $'main board' and 'mother board'$
-	$ All boards are = or ≠ same thing but could be some combination of multiple board in one single place(space). $
+As we know 'main board' and 'mother board' are same element.  And for recognition we used a ( _ )[underscore] as it is local root hardwire name or ; command memory soft record module or ; db/record of firmware ; or soft module memory records. 
 
 
-😵‍💫😵‍💫😵‍💫  -  😵😵😵  :::: i think my Elastic_heart article is longer than any other Usual Articles. 
 
+😵‍💫😵‍💫😵‍💫  -  😵😵😵  :::: i think my Elastic_heart article is longer than any other Usual Articles.
+May be my EX still thinks how could be a person so Immature ... 
+
+
+Well,
 I am making things long and boring for understand in Future,  about - Network and relation Between hardwire and firmware.
 	$ " what is Network  &&  Network Between sim IC to handset IC; Checking connectivity . " $
 
 Now,  lets try Focus on my android app;  im trying to Monitoring commands and Traffic packages. . 
-First the App checked capacity of my Sim card data capture speed and my main_board data capture speed along with data capacity limit	$ (the electricity) $ . 
+First the App checked capacity of my Sim card data capture speed and my main_board data capture speed along with data capacity limit (the electricity) . 
+
 	$ {Android Sub System Linux [Emulated (Electricity Supply)]}.  $
 
-
+~~~~~~RAFI~~~~~~~
 	$ ~~~~~~~~~~~~~~😁😄😀~~~~~~~~~~~~~~ $
 
 Bro, is crazy! 
@@ -86,22 +102,28 @@ We always Push the limit as we Evolving, Learning new things everday.
 
 
 Ok,
-So
-	$ our device manufacturers technically lie but its not a lie at all $ 
+So, I Decided to dedicate my Article to My EX .
+Without her it was impossible for me to understand Newtworking properly. 
 
-Because if we make a proper Calculated Cercuit syatem with IC, Proper circuit board resistors and Capacitors we can bite the Fortune now.
+	$ our device Manufacturers technically lie but its not a lie at all $
+
+Because if we make a proper Calculated command with proper Architectured Cercuit syatem with IC and circuit board resistors, Capacitors ; We really can bite the Fortune now . 
 	$ {[for servive or resist longer than] < real time ] || (example: minimum 1 years maximum 10-20 years)]} $
 
-But Economy and Capitalism and internet Business System, food chain is real Enemy of Frelance Researchers like us. but we keep
-Studing for time pass 😄 or grooming our brain. 
-	$ Keep Learning < post More what you thinking $ 
 
-Yap we already have all the futuristic tech available on planet. They are already exists. 
+But Economy along with system of Capitalism and internet Business System, technological food chain are the real Enemy for Freelance Researchers like us. but we keep
+Studing for whatever it takes. May be i do study for time pass 😄 or grooming our brain . 
+
+	$ Keep Learning < post More what you thinking and your Ideas $ 
+
+Yap, we already have all the futuristic tech available on planet. They are already exists. 
 But theocratical, the technologycal limitation and Security barier are the main reason our system/society dosent allow much privilege or access to knowing much about deep Networking. 
 'Core Networking' Practical analysis are less privilized for front-end users along with font-end developers ; it is only to Prevent damage on Online Financial & Business Sectors 🧐 . 
 
-The next :-
+The next ::
 	$ Possible existing technology $
+
+
 Using super conductive mother_board cpasitor or IC,  
 We can build a super handset or a Computing_Machine at present day. Which will be far more advanced and Futuristic to current general users on the Globe . 
 Practically the combination of proper Cercuitry, Capable of doing anything . 
@@ -111,10 +133,13 @@ From the Begining of our Technological Time,
 Our challange is to making some powerful resistor, switching circuitry in a very tinny place. 
 I mean, making a IC ir Circuit syatem As Tinny as We Can. 
 And we are continuously make it inside in very very little place like - nano centimetres space.
+
 	$ = / ≠ .  $
-Or In public language_  i can say, a tinny chip in a mobile_cercuit_board at a very short space. which is resistend from short_cercuit proof with wires (tinny cables) during Power Circulation.  
-All though we have now PCI board like technology which is also Amezing and There is still a lot-lot-lot to discover yet.
-	$ " Alas ! It is nothing if u dont know everything @_@  🤪 " . $ 
+
+Or In public language_  i can say, a tinny chip in a mobile_cercuit_board at a very short space. which is resistend from short_cercuit proof with wires (tinny cables) during Power Circulation from power Supply.   
+All though we have now PCI board like technology which is also Amezing and There is still a lot-lot-lot to discover yet .
+
+	$ " Alas ! It is nothing for us ; if we dont know everything @_@  🤪 " . $ 
 
 But making things tinny is not enough till untill infinity which is not discovered yet (+)(-) = (-)  [Don't fall in Paradox] ........
 
