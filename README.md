@@ -63,20 +63,22 @@ As we understand    $'main board' and 'mother board'$
 
 😵‍💫😵‍💫😵‍💫  -  😵😵😵  :::: i think my Elastic_heart article is longer than any other Usual Articles. 
 
-I am making things long and boring for understand in Future,  about - Network and relation Between hardwire and framewire. 
-	$ "what is 'Network' Between sim IC to handset IC "connectivity". $
+I am making things long and boring for understand in Future,  about - Network and relation Between hardwire and firmware.
+	$ " what is Network  &&  Network Between sim IC to handset IC; Checking connectivity . " $
 
-Now,  lets try Focus on my android app;  im trying to Monitoring command and Traffic packages. . 
+Now,  lets try Focus on my android app;  im trying to Monitoring commands and Traffic packages. . 
 First the App checked capacity of my Sim card data capture speed and my main_board data capture speed along with data capacity limit	$ (the electricity) $ . 
-	$ {Android Sub System Linux [Emulated (Electricity Supply)]} $
+	$ {Android Sub System Linux [Emulated (Electricity Supply)]}.  $
 
 
- ~~~~~~~~~~~~~~😁😄😀~~~~~~~~~~~~~
+	$ ~~~~~~~~~~~~~~😁😄😀~~~~~~~~~~~~~~ $
 
-    $ Networking is wird!... $
+Bro, is crazy! 
+	$ Networking is wird !... .  $
 
 After all,
-Handset board capacity is cimbined with 5G Tech now day but we still have majority of devices network IC capacity about 811 MBPS which is too high to resist from short cercuit and Being tiny. 
+Handset board capacity is combined with 5G Tech now day but we still have majority of devices with vast amount of users community uses some old GEN Tech Device with Old gen network IC capacity.
+ about 811 MBPS which is too high to resist from short cercuit and Being tiny. 
 If we try to use it's full potential (or overclocing) it may cause some Disaster. But we are human.  
 We always Push the limit as we Evolving, Learning new things everday. 
 
@@ -94,7 +96,7 @@ Studing for time pass 😄 or grooming our brain.
 
 Yap we already have all the futuristic tech available on planet. They are already exists. 
 But theocratical, the technologycal limitation and Security barier are the main reason our system/society dosent allow much privilege or access to knowing much about deep Networking. 
-'Core Networking' Practical analysis are less privilised for front-end users along with developers ; it is only to Prevent damage on Onlline Financial & Business Sectors 🧐 . 
+'Core Networking' Practical analysis are less privilized for front-end users along with font-end developers ; it is only to Prevent damage on Online Financial & Business Sectors 🧐 . 
 
 The next :-
 	$ Possible existing technology $
@@ -103,18 +105,18 @@ We can build a super handset or a Computing_Machine at present day. Which will b
 Practically the combination of proper Cercuitry, Capable of doing anything . 
 Observing Networking between everything would be so fascinating on these Advance Gadgates, It's fast and highly resistance on_board .  
 
-From the Begining of out Technological Time,
+From the Begining of our Technological Time,
 Our challange is to making some powerful resistor, switching circuitry in a very tinny place. 
 I mean, making a IC ir Circuit syatem As Tinny as We Can. 
 And we are continuously make it inside in very very little place like - nano centimetres space.
-	$ = / ≠ .$
+	$ = / ≠ .  $
 Or In public language_  i can say, a tinny chip in a mobile_cercuit_board at a very short space. which is resistend from short_cercuit proof with wires (tinny cables) during Power Circulation.  
 All though we have now PCI board like technology which is also Amezing and There is still a lot-lot-lot to discover yet.
-	$ "Alas! It is nothing if u dont know everything @_@  🤪" . $ 
+	$ " Alas ! It is nothing if u dont know everything @_@  🤪 " . $ 
 
-But making things tinny is not enough till untill infinity which is not discovered yet  [Don't fall in Paradox] ........
+But making things tinny is not enough till untill infinity which is not discovered yet (+)(-) = (-)  [Don't fall in Paradox] ........
 
-	$ { I didn't wanted to disappoint you guys 😞 . But everything is possible ♤ } . $
+	$ { I didn't wanted to disappoint you guys 😞 . But everything is possible ♤ } . be evolved  $
 
 
 So i guess this content is not that improper for modern day's hackers but a true shinny inspiration for modern day's 'Dremers-Developer' Family like us.
