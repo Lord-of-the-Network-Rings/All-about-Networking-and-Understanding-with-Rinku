@@ -8,15 +8,15 @@ I'm now smiling on my own thought. Why i posted it to blogs and Sent it to Forbe
 University like Harvard! 😅
 
 
-Official title :::-
+Official title ::
 	$ Treasures of networking Universe . $
 My Article Title Number 10. 
 --------------------------------------------------
-    $ Article By : Mohammad mahedi hasan Rinku. 
-Kushtian, Bangladesh. $
+    Article By :
+	$ Mohammad mahedi hasan Rinku . Kushtian, Bangladesh . $
 
 
-Other Title fun ::::--
+Other Title fun ::
 	$ Title : Knowing Your Handset Network While Speed Testing using a External App $
 	$ Title : Hacking must be easy ; the Mature Networking Vortex $
 	$ Title : Networking is the Secrete of the Universe $
