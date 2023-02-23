@@ -18,7 +18,7 @@ Title : Knowing Your Handset Network While Speed Testing using a External App.
 Title : Hacking must be easy ; the Mature Vortex.
 Title : Networking is the Secrete of the Universe.
 
-Pardon My Humor...
+    Pardon My Humor...
 
 
 I was trying to fix a Custom Android App to modify internet Usages. 
@@ -38,19 +38,23 @@ To print output / display something to me on screen.
 
 Firat it checked before output which is " data speed of sim operator to broadcasted Tower frequency data receive capacity Tower to my sim card IC. 
 Then it checks my Sim IC to my main board IC's  network connectivity and power capacity.  
-handsent mainly we call it the 'mother_board /main board' . 
+handsent mainly we call it the     'mother_board /main board' . 
+Of combination of    Multiple Sister_board =/< in a Single Main_board
 
-Motherboard came from a combinational verious board with intigrated IC.  I mean some multiple board in one single board. 
-As we understand 'main board' and 'mother board'
-Is same thing but could be some combination of multiple board  we must be understood what is a Network Between sim IC to handset IC connectivity. 
+Motherboard can be a combination of verious boards in a single Space / Board . with intigrated IC and logic-Gates with mathematical Calculation of electricity supply inside the main board and it's Connectivity.  
+I mean Mother_Board is some multiple complete module's place of paradise in short place to evolve out generation more advance than we are now.
+As we understand    'main board' and 'mother board'
+Is same thing but could be some combination of multiple board in one place. 
+
+It will help US in Future to understood    "what is 'Network' Between sim IC to handset IC connectivity". 
 
 Now the app checked capacity of my Sim card data capture speed and my main_board data capture speed along with data capacity limit(the electricity)
 
 
-    $$$$$$$ so networking is pretty wird..$$$$$$$
+    $ So, networking is pretty wird! ..$
 
 After all,
-Handset board capacity is 5G now day but we still have majority of device network IC capacity is 810 MBPS which is too high to resis from short cercuit if we try to use it's full potential (or overclocing)
+Handset board capacity is 5G now day but we still have majority of device network IC capacity is 811 MBPS which is too high to resis from short cercuit if we try to use it's full potential (or overclocing)
 
 Ok,  so our device manufacturers technically lie but its not a lie.  
 
