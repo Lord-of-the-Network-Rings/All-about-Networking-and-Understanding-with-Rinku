@@ -62,12 +62,12 @@ May be my EX still thinks how could be a person so Immature ...
 
 Well,
 I am making things long and boring for understand in Future,  about - Network and relation Between hardwire and firmware.
-	$ " what is Network  &&  Network Between sim IC to handset IC; Checking connectivity . " $
-Now,  lets try Focus on my android app;  im trying to Monitoring commands and Traffic packages. . 
+	$ "what is Network  &&  Network Between sim IC to handset IC; Checking connectivity . "$
+Now,  lets try Focus on my android app;  im trying to Monitoring commands and Traffic packages.
 First the App checked capacity of my Sim card data capture speed and my main_board data capture speed along with data capacity limit (the electricity) . 
 	$ {Android Sub System Linux [Emulated (Electricity Supply)]}.  $
-~~~~~~RAFI~~~~~~~
-	$ ~~~~~~~~~~~~~~😁😄😀~~~~~~~~~~~~~~ $
+	~~~~~~RAFI~~~~~~~
+~~~~~~~~~~~~~😁😄😀~~~~~~~~~~~~~~
 Bro, Networking is crazy ! Im announcing and dedicating my Articles to my Beloved EX as proof of my Data Security. 
 Some how on some place womans are right. Its a Miracle bro. I still dont know how a human brain can grow so matured on Subconscious Mode.
 I Think im talking stupid now 😄 . 
