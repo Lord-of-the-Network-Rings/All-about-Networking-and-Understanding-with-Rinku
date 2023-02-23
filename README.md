@@ -66,12 +66,14 @@ I am making things long and boring for understand in Future,  about - Network an
 Now,  lets try Focus on my android app;  im trying to Monitoring commands and Traffic packages.
 First the App checked capacity of my Sim card data capture speed and my main_board data capture speed along with data capacity limit (the electricity) . 
 	$ {Android Sub System Linux [Emulated (Electricity Supply)]}.  $
-	~~~~~~RAFI~~~~~~~
+~~~~~~~~~~~~~~RAFI~~~~~~~~~~~~~~~
 ~~~~~~~~~~~~~😁😄😀~~~~~~~~~~~~~~
 Bro, Networking is crazy ! Im announcing and dedicating my Articles to my Beloved EX as proof of my Data Security. 
 Some how on some place womans are right. Its a Miracle bro. I still dont know how a human brain can grow so matured on Subconscious Mode.
 I Think im talking stupid now 😄 . 
-	$ Networking is wird !... .  $
+
+$ Networking is wird !... .$
+
 After all,
 Handset board capacity is combined with 5G Tech now day but we still have majority of devices with vast amount of users community uses some old GEN Tech Device with Old gen network IC capacity.
  about 811 MBPS which is too high to resist from short cercuit and Being tiny. 
