@@ -13,7 +13,7 @@ Official title :
 My Article Title Number 10. 
 --------------------------------------------------
 
-Article written By :$ Mohammad mahedi hasan Rinku . Kushtian, Bangladesh $
+Article written By :$Mohammad mahedi hasan Rinku || Kushtian, Bangladesh$
 Other Fun Titles : 
 	$ Title : Knowing Your Handset Network While Speed Testing using a External App $
 	Title : Hacking must be easy ; the Mature Networking Vortex
