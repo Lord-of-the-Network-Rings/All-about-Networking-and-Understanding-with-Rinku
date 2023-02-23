@@ -32,74 +32,102 @@ So our Android Framework actually adopts some kind of way to run/emulate all kin
 
 Let go to main thing im excited to write it down :---
 
-I used a external Application downloaded from Google Play Store app. Is was for test the internet speed between my SIM TO HANSET NETWORK IC  (Sim card IC to my mainboard IC) 
+	$ I used a external Application downloaded from Google Play Store $
+ It was for testing general internet speed between my	$ SIM Cafd TO HANSET NETWORK IC  (Sim card IC to my mainboard IC) $ 
 
 
-So using the app i seen from request - the app made a command from direct operating system shell 
-To print output / display something to me on screen. 
+So using the app i seen from 'request' - the app made a command from direct operating system shell 
+	$To print output / display something to me on screen. $
 
 Firat it checked before output which is " data speed of sim operator to broadcasted Tower frequency data receive capacity Tower to my sim card IC. 
 Then it checks my Sim IC to my main board IC's  network connectivity and power capacity.  
-handsent mainly we call it the
-	$ 'mother_board / main board'. $
-
-The combination of	$ Multiple Sister_board =/< in a Single Main_board $
+handsent mainly we call it the     $'mother_board /main board'.$
+Of combination of    Multiple Sister_board =/< in a Single Main_board
 
 Motherboard can be a combination of verious boards in a single Space / Board . with intigrated IC and logic-Gates with mathematical Calculation of electricity supply inside the main board and it's Connectivity.  
 I mean Mother_Board is a place of multiple complete module's place of paradise in short space. Actually the purpose of my Article is to make thing go on.. Or help our Upcoming generating evolve more advance than we are now.
 As we understand    $'main board' and 'mother board'$
-All boards are   $ = or ≠ $ same thing but could be some combination of multiple board in one place. 
+	$ All boards are = or ≠ same thing but could be some combination of multiple board in one single place(space). $
 
-I am making thing long and boring for understand in Future	$"what is 'Network' Between sim IC to handset IC "connectivity".$
+I am making thing long and boring for understand in Future,  about -
+	$ "what is 'Network' Between sim IC to handset IC "connectivity". $
 
-
-Now the lets Focus on my android app im trying to Monitoring. 
-First the App checked capacity of my Sim card data capture speed and my main_board data capture speed along with data capacity limit (the electricity)
+Now,  lets try Focus on my android app;  im trying to Monitoring command and Traffic packages. . 
+First the App checked capacity of my Sim card data capture speed and my main_board data capture speed along with data capacity limit	$ (the electricity) $ . 
 	$ {Android Sub System Linux [Emulated (Electricity Supply)]} $
 
 
-    $ So, networking is pretty wird!..$
+ ~~~~~~~~~~~~~~😁😄😀~~~~~~~~~~~~~
+
+    $ Networking is wird!... $
 
 After all,
-Handset board capacity is 5G now day but we still have majority of device network IC capacity is 811 MBPS which is too high to resis from short cercuit if we try to use it's full potential (or overclocing)
-
-Ok,  so our device manufacturers technically lie but its not a lie.  
-
-Because if we make a cercuit IC with proper circuit board resistors	${[for servive or resist longer than] < real time ] || (example: minimum 1 years maximum 10-20 years)]} $.. Yap we already have all the future tech available on planet. 
-But for the technologycal limitation and Security barier, our system/society dosent allow much privilege or access to front end users along with developers 
+Handset board capacity is cimbined with 5G Tech now day but we still have majority of devices network IC capacity about 811 MBPS which is too high to resist from short cercuit and Being tiny. 
+If we try to use it's full potential (or overclocing) it may cause some Disaster. But we are human.  
+We always Push the limit as we Evolving, Learning new things everday. 
 
 
-Using super conductive mother_board cpasitor or IC.   We can build a super handset or a Computing_Machine at present day. Which will be far more advanced and Futuristic to current general users on the Globe . Practically the combination of proper Cercuitry, are Capable of doing anything . Observing Networking between everything would be so fascinating on these Gadgates, It's fast and highly resistance on_board .  
+Ok,
+So
+	$ our device manufacturers technically lie but its not a lie at all $ 
 
-But challange is to making some powerful resistor, switching circuitry in a very tinny place.  I mean, for make a IC , we have to make it very very little place like inside in a nano centimetres space. Or In public language_  i can say, a tinny chip in a mobile cercuit board in a very short space resistend from short cercuit with each other during Power Circulation.  All though we have now PCI board like technology which is also Amezing and a lot-lot-lot to discover yet.  "Alas! It is nothing if u dont know everything @_@  🤪  "
+Because if we make a proper Calculated Cercuit syatem with IC, Proper circuit board resistors and Capacitors we can bite the Fortune now.
+	$ {[for servive or resist longer than] < real time ] || (example: minimum 1 years maximum 10-20 years)]} $
+
+But Economy and Capitalism and internet Business System, food chain is real Enemy of Frelance Researchers like us. but we keep
+Studing for time pass 😄 or grooming our brain. 
+	$ Keep Learning < post More what you thinking $ 
+
+Yap we already have all the futuristic tech available on planet. They are already exists. 
+But theocratical, the technologycal limitation and Security barier are the main reason our system/society dosent allow much privilege or access to knowing much about deep Networking. 
+'Core Networking' Practical analysis are less privilised for front-end users along with developers ; it is only to Prevent damage on Onlline Financial & Business Sectors 🧐 . 
+
+The next :-
+	$ Possible existing technology $
+Using super conductive mother_board cpasitor or IC,  
+We can build a super handset or a Computing_Machine at present day. Which will be far more advanced and Futuristic to current general users on the Globe . 
+Practically the combination of proper Cercuitry, Capable of doing anything . 
+Observing Networking between everything would be so fascinating on these Advance Gadgates, It's fast and highly resistance on_board .  
+
+From the Begining of out Technological Time,
+Our challange is to making some powerful resistor, switching circuitry in a very tinny place. 
+I mean, making a IC ir Circuit syatem As Tinny as We Can. 
+And we are continuously make it inside in very very little place like - nano centimetres space.
+	$ = / ≠ .$
+Or In public language_  i can say, a tinny chip in a mobile_cercuit_board at a very short space. which is resistend from short_cercuit proof with wires (tinny cables) during Power Circulation.  
+All though we have now PCI board like technology which is also Amezing and There is still a lot-lot-lot to discover yet.
+	$ "Alas! It is nothing if u dont know everything @_@  🤪" . $ 
 
 But making things tinny is not enough till untill infinity which is not discovered yet  [Don't fall in Paradox] ........
 
-	${ I didn't wanted to disappoint you guys 😞 . But everything is possible ♤ }$
+	$ { I didn't wanted to disappoint you guys 😞 . But everything is possible ♤ } . $
 
 
-So i guess this content is not that improper for modern day's hackers but a true shinny inspiration for modern day's 'Dremer Developer' like us from True Developers Family. 
+So i guess this content is not that improper for modern day's hackers but a true shinny inspiration for modern day's 'Dremers-Developer' Family like us.
+Best Wishes from 'True Developers Family'. 
 
-	$Hell ya Devepolers.....$
+	$ Hell Ya to The Royal Devepolers Society..... . $
 
 For hacker like Network Engineers; Isn't the 'Everything Hacking' just a piece of cake? 
 
 
-	$-----------------END-------------------$
+	$ -----------------END------------------- $
 
-If you really want to know how i reached Harvard,scroll right =>  Its Networking Baby. 
+If you really want to know how i reached Harvard to publish my Article  ======>>>> ,scroll right =>		$ It is Networking Baby . $
 
-	$TO b3 C০ntinued....0.1.01.11.00....$
+	$ TO b3 C০ntinued....0.1.01.11.00.... $
 
-	$Document Sent to : dbrooks@g.harvard.edu$
+	$ Document Sent to : dbrooks@g.harvard.edu $
 
-	$Documented by : Mohammad Mahedi Hasan Rinku (me)
-Researched by : (ME)
-Analyzed By : (ME)
-Discovered by : (ME) $
+	$ Documented by : Mohammad Mahedi Hasan Rinku (me) $
+	$ Researched by : (ME) $
+	$ Analyzed By : (ME) $
+	$ Discovered by : (ME) $
 
-	$Invented by : Some one Else [how do i know 😆 (i'm a lazy Ass]$
+Invented by :
+	$ Some one Else [how do i know 😆 (i'm a lazy Ass)] $
 
 Meta Data :-
-	$Meta Requests :Posting tech Articles, Posting Computer Science Theories - Article about Networking, Hacking, Intercepting Requeats,  Intercepting and Understanding Traffics, Interesting Connectivity on Environment to Platforms, Signals, Type of Signals.  Networking Bridges.$
+	
+	$ Meta Requests : Networking Article, Machine_Learning, Posting tech Articles, Posting Computer Science Theories - Article about Networking, Hacking, Intercepting Requeats,  Intercepting and Understanding Traffics, Interesting Connectivity on Environment to Platforms, Signals, Type of Signals.  Networking Bridges . $
 
