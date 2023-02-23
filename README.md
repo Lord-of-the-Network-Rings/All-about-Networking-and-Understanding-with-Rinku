@@ -9,16 +9,18 @@ University like Harvard! 😅
 
 
 Official title : Treasures of networking Universe. 
+My Article Title Number 10. 
 --------------------------------------------------
-By : Mohammad mahedi hasan Rinku. 
-Kushtian, Bangladesh.  
+    $ Article By : Mohammad mahedi hasan Rinku. 
+Kushtian, Bangladesh.$
 
+    $ Other Title $
 
 Title : Knowing Your Handset Network While Speed Testing using a External App.
 Title : Hacking must be easy ; the Mature Vortex.
 Title : Networking is the Secrete of the Universe.
 
-    Pardon My Humor...
+    $Pardon My Humor...$
 
 
 I was trying to fix a Custom Android App to modify internet Usages. 
@@ -38,27 +40,30 @@ To print output / display something to me on screen.
 
 Firat it checked before output which is " data speed of sim operator to broadcasted Tower frequency data receive capacity Tower to my sim card IC. 
 Then it checks my Sim IC to my main board IC's  network connectivity and power capacity.  
-handsent mainly we call it the     'mother_board /main board' . 
+handsent mainly we call it the     $'mother_board /main board'.$
 Of combination of    Multiple Sister_board =/< in a Single Main_board
 
 Motherboard can be a combination of verious boards in a single Space / Board . with intigrated IC and logic-Gates with mathematical Calculation of electricity supply inside the main board and it's Connectivity.  
-I mean Mother_Board is some multiple complete module's place of paradise in short place to evolve out generation more advance than we are now.
-As we understand    'main board' and 'mother board'
-Is same thing but could be some combination of multiple board in one place. 
+I mean Mother_Board is a place of multiple complete module's place of paradise in short space. Actually the purpose of my Article is to make thing go on.. Or help our Upcoming generating evolve more advance than we are now.
+As we understand    $'main board' and 'mother board'$
+All boards are   $ = or ≠ $ same thing but could be some combination of multiple board in one place. 
 
-It will help US in Future to understood    "what is 'Network' Between sim IC to handset IC connectivity". 
-
-Now the app checked capacity of my Sim card data capture speed and my main_board data capture speed along with data capacity limit(the electricity)
+I am making thing long and boring for understand in Future	$"what is 'Network' Between sim IC to handset IC "connectivity".$
 
 
-    $ So, networking is pretty wird! ..$
+Now the lets Focus on my android app im trying to Monitoring. 
+First the App checked capacity of my Sim card data capture speed and my main_board data capture speed along with data capacity limit (the electricity)
+	$ {Android Sub System Linux [Emulated (Electricity Supply)]} $
+
+
+    $ So, networking is pretty wird!..$
 
 After all,
 Handset board capacity is 5G now day but we still have majority of device network IC capacity is 811 MBPS which is too high to resis from short cercuit if we try to use it's full potential (or overclocing)
 
 Ok,  so our device manufacturers technically lie but its not a lie.  
 
-Because if we make a cercuit IC with proper circuit board resistors (((for servive or resist longer than < real time life || example: minimum 1 years maximum 10-20 years))).. Yap we already have all the future tech available on planet. 
+Because if we make a cercuit IC with proper circuit board resistors	${[for servive or resist longer than] < real time ] || (example: minimum 1 years maximum 10-20 years)]} $.. Yap we already have all the future tech available on planet. 
 But for the technologycal limitation and Security barier, our system/society dosent allow much privilege or access to front end users along with developers 
 
 
@@ -68,29 +73,31 @@ But challange is to making some powerful resistor, switching circuitry in a very
 
 But making things tinny is not enough till untill infinity which is not discovered yet  [Don't fall in Paradox] ........
 
-{ I didn't wanted to disappoint you guys 😞 . But everything is possible ♤ } 
+	${ I didn't wanted to disappoint you guys 😞 . But everything is possible ♤ }$
 
 
 So i guess this content is not that improper for modern day's hackers but a true shinny inspiration for modern day's 'Dremer Developer' like us from True Developers Family. 
 
-Hell ya Devepolers.....
+	$Hell ya Devepolers.....$
 
 For hacker like Network Engineers; Isn't the 'Everything Hacking' just a piece of cake? 
 
 
-       -----------------END-------------------
+	$-----------------END-------------------$
 
 If you really want to know how i reached Harvard,scroll right =>  Its Networking Baby. 
 
-TO b3 C০ntinued....0.1.01.11.00....
+	$TO b3 C০ntinued....0.1.01.11.00....$
 
-Document Sent to : dbrooks@g.harvard.edu
-Documented by : Mohammad Mahedi Hasan Rinku (me)
+	$Document Sent to : dbrooks@g.harvard.edu$
+
+	$Documented by : Mohammad Mahedi Hasan Rinku (me)
 Researched by : (ME)
 Analyzed By : (ME)
-Discovered by : (ME)
-Invented by : Some one Else [how do i know 😆 (i'm a lazy Ass]
+Discovered by : (ME) $
 
+	$Invented by : Some one Else [how do i know 😆 (i'm a lazy Ass]$
 
-Meta Requests :Posting tech Articles, Posting Computer Science Theories - Article about Networking, Hacking, Intercepting Requeats,  Intercepting and Understanding Traffics, Interesting Connectivity on Environment to Platforms, Signals, Type of Signals.  Networking Bridges.
+Meta Data :-
+	$Meta Requests :Posting tech Articles, Posting Computer Science Theories - Article about Networking, Hacking, Intercepting Requeats,  Intercepting and Understanding Traffics, Interesting Connectivity on Environment to Platforms, Signals, Type of Signals.  Networking Bridges.$
 
