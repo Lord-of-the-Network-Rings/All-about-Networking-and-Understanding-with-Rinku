@@ -41,8 +41,9 @@ To print output / display something to me on screen.
 Firat it checked before output which is " data speed of sim operator to broadcasted Tower frequency data receive capacity Tower to my sim card IC. 
 Then it checks my Sim IC to my main board IC's  network connectivity and power capacity.  
 handsent mainly we call it the
-$ 'mother_board /main board'. $
-Of combination of    Multiple Sister_board =/< in a Single Main_board
+	$ 'mother_board / main board'. $
+
+The combination of	$ Multiple Sister_board =/< in a Single Main_board $
 
 Motherboard can be a combination of verious boards in a single Space / Board . with intigrated IC and logic-Gates with mathematical Calculation of electricity supply inside the main board and it's Connectivity.  
 I mean Mother_Board is a place of multiple complete module's place of paradise in short space. Actually the purpose of my Article is to make thing go on.. Or help our Upcoming generating evolve more advance than we are now.
